@@ -47,7 +47,7 @@ This GitHub repository will host:
 
 Founded at the **University of Arizona**, Cyber Saguaros is open to students of all majors and experience levels. Whether you're just starting out or deep into your cyber journey, there's a place for you here.
 
-> 🌐 Check us out at [**cybersaguaros.org**](https://cybersaguaros.org) (Coming Soon)  
+> 🌐 Check us out at [**cybersaguaros.com**](https://cybersaguaros.com) (Coming Soon)  
 > 💬 Connect with us on Discord — invite link in our [Events Calendar](https://linktr.ee/cybersaguaros)
 
 ---
